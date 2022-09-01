@@ -19,3 +19,4 @@ This will create a Rabbit server in the container
 - RPC
 - Topics
 - WorkQueue
+- PublisherConfirms
